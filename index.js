@@ -30,4 +30,5 @@ function removeFirstCat() {
     removeFirstCat=cats.slice(1)
     return removeFirstCat
 }
+// phase-0 and phase-1 lab
 
